@@ -3,7 +3,7 @@
     AlleSchulen im Vergleich:
     <ul>
       <li :class="{active: selectedName == 'strom'}" @click="selectDataset('strom')">Strom</li>
-      <li :class="{active: selectedName == 'heizung'}" @click="selectDataset('heizung')">Heizung </li>
+      <li :class="{active: selectedName == 'heizung'}" @click="selectDataset('heizung')">Heizung</li>
       <li :class="{active: selectedName == 'wasser'}" @click="selectDataset('wasser')">Wasser</li>
     </ul>
     <p>
@@ -101,6 +101,9 @@ export default {
       selectedDataset: null,
       selectedName: ''
     }
+  },
+  mounted () {
+    this.selectDataset('strom')
   },
   methods: {
     selectDataset(datasetName) {
