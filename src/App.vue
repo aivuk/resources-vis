@@ -8,19 +8,32 @@
     </ul>
     <p>
     </p>
-    <MyBar :chartData="selectedDataset"></MyBar>
+    <MyBar :chartData="selectedDataset" :options="options"></MyBar>
+    <p/>
+    <MyHBar :chartData="selectedDataset" :options="options"></MyHBar>
   </div>
 </template>
 
 <script>
 
 import MyBar from './MyBar.vue'
+import MyHBar from './MyHBar.vue'
 
 export default {
   name: 'app',
-  components: { MyBar },
+  components: { MyBar, MyHBar },
   data () {
     return {
+      options: {
+        scales: {
+          xAxes: [ {
+             categoryPercentage: 0.8,
+             barPercentage: 0.9
+          }]
+        },
+        responsive: true,
+        maintainAspectRatio: false
+      },
       datasets: {
         'strom': {
           labels: ['2013', '2014', '2015'],
@@ -123,6 +136,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  margin: auto;
+  max-width: 800px;
 }
 
 h1, h2 {
@@ -148,6 +163,9 @@ li {
 
 a {
   color: #42b983;
+}
 
+#bar-chart {
+   /*max-width: 800px;*/
 }
 </style>
