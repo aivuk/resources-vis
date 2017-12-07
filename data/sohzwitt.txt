@@ -1,0 +1,278 @@
+Objektliste Heizenergieverbrauch für das Jahr 2015                                                                                                  Seite 1 von 4
+
+                                           Heizenergie absolut                                Heizenergie                                     Heizenergie
+                                           in MWh                                             witterungsbereinigt in MWh                      Verbrauch/Kosten
+                                           Verbrauch Kalenderjahr nach                        Verbrauch Kalenderjahr nach                     abgerechnet mit EVU
+                                           Hausmeisterablesung                                Hausmeisterablesung                             2015
+
+
+
+
+                                                                                               Durch-
+                                             Durch-
+
+
+
+
+                                                                                               schnitt
+                                             schnitt
+
+
+
+
+                                                                                Abweichung
+
+
+
+
+                                                                                                                                Abweichung
+                                                                                zum Vorjahr
+
+
+
+
+                                                                                                                                zum Vorjahr
+Bezeichnung                                                                                                                                               Betrag
+                                             2013                                              2013
+Objekt                                         -          2014           2015                    -          2014        2015                     MWh      in Euro
+                                             2013                                              2013
+
+Betriebshof ZGM                               60,0        50,0        50,0        0,0           55,2        57,4        53,6      -6,6            50,0     3.500,00
+Neues Rathaus, VHS                           598,6       276,9       201,5      -27,2          550,8       318,1       216,1     -32,1           186,0    13.449,69
+Verwaltung                                   658,6       326,9       251,5      -23,1          606,0       375,5       269,7     -28,2           236,0    16.949,69
+
+Feuerwehr, LZ Hülsdonk                        31,4        29,9        32,3        8,0            28,9        34,4        34,6      0,6            38,0     2.165,22
+Feuerwehr, LZ Kapellen                       167,8       117,9       132,0       12,0           154,4       135,5       141,6      4,5           120,1     6.655,55
+Feuerwehr, LZ Repelen                        142,6        99,7       106,8        7,1           131,2       114,5       114,5      0,0            96,6     5.371,92
+Feuerwehr, LZ Scherpenberg                   120,7        89,2       116,1       30,2           111,0       102,4       124,5     21,6           130,1     7.202,70
+Feuerwehr, LZ Schwafheim                      59,7        45,0        52,1       15,8            55,0        51,7        55,8      7,9            52,4     2.952,27
+Feuerwehr, LZ Stadtmitte / Asberg             67,1        38,1        59,0       54,9            61,7        43,8        63,2     44,3            54,0     7.726,20
+Hauptwache, Am Jostenhof                     851,2       774,1       745,7       -3,7           783,2       889,2       799,7    -10,1           863,0    79.515,00
+Feuerwehr                                  1.440,5     1.193,9     1.244,0        4,2         1.325,4     1.371,5     1.333,9     -2,7         1.354,3   111.588,86
+
+Adolf-Reichwein-Schule                       335,3       217,0       260,6       20,1           308,5       249,3       279,4     12,1           269,5    19.327,59
+Astrid-Lindgren-Schule                       286,2       173,8       187,2        7,7           263,3       199,7       200,8      0,6           193,0    16.886,01
+Eichendorffschule                            313,3       223,2       244,6        9,6           288,3       256,4       262,3      2,3           259,0    19.266,39
+Gebrüder-Grimm-Schule                         98,9        67,3        67,6        0,4            91,0        77,3        72,5     -6,2            58,9     8.263,60
+GG Annastraße                                493,2       387,2       400,4        3,4           453,9       444,8       429,4     -3,5           383,6    31.173,05
+GG Dorsterfeldschule                         947,3       811,8       906,4       11,7           871,7       932,5       972,0      4,2           959,1    52.553,11
+GG Eick-West                                 706,6       521,4       623,6       19,6           650,2       598,9       668,7     11,7           638,0    45.619,49
+GG Emanuel-Felke-Schule                      172,1       181,9        81,9      -55,0           158,4       208,9        87,8    -58,0           171,9     9.765,63
+GG Eschenburgschule                          465,9       221,2       277,4       25,4           428,7       254,1       297,5     17,1           340,6    18.794,02
+GG Regenbogenschule                          257,9       185,4       203,8        9,9           237,4       213,0       218,5      2,6           212,0    16.493,18
+GG Repelen                                   235,7       200,2       187,4       -6,4           216,9       229,9       201,0    -12,6           185,7    10.242,18
+GG Rheim                                     157,4       145,9       142,1       -2,6           144,9       167,6       152,4     -9,1           139,0    15.444,71
+GG Uhrschule Meerbeck                        115,7        82,9        92,9       12,1           106,4        95,2        99,7      4,7            98,0     8.868,18
+GG Waldschule                                342,6       247,3       297,1       20,1           315,3       284,0       318,6     12,2           326,4    18.021,90
+GG-Moers-Hülsdonk                            264,1       225,2       172,3      -23,5           243,1       258,7       184,8    -28,6           166,1     9.171,69
+Kath. GG St.Marien/Willi Fährmann-Schule     766,2       213,4       151,9      -28,8           705,1       245,1       162,9    -33,5           183,0    10.881,81
+Robinson-Schule                              543,1       397,7       368,9       -7,2           499,8       456,8       395,6    -13,4           472,0    36.329,10
+Grundschulen                               6.501,5     4.502,8     4.666,1        3,6         5.982,9     5.172,2     5.003,9     -3,3         5.055,6   347.101,64
+
+
+
+AKROPOLIS - Energiebewirtschaftung                                                                                              Stadt Moers - ZGM
+Objektliste Heizenergieverbrauch für das Jahr 2015                                                                                                Seite 2 von 4
+
+                                         Heizenergie absolut                                Heizenergie                                     Heizenergie
+                                         in MWh                                             witterungsbereinigt in MWh                      Verbrauch/Kosten
+                                         Verbrauch Kalenderjahr nach                        Verbrauch Kalenderjahr nach                     abgerechnet mit EVU
+                                         Hausmeisterablesung                                Hausmeisterablesung                             2015
+
+
+
+
+                                                                                             Durch-
+                                           Durch-
+
+
+
+
+                                                                                             schnitt
+                                           schnitt
+
+
+
+
+                                                                              Abweichung
+
+
+
+
+                                                                                                                              Abweichung
+                                                                              zum Vorjahr
+
+
+
+
+                                                                                                                              zum Vorjahr
+Bezeichnung                                                                                                                                             Betrag
+                                           2013                                              2013
+Objekt                                       -          2014           2015                    -          2014        2015                     MWh      in Euro
+                                           2013                                              2013
+
+Justus-von-Liebig Schule                   414,9       242,8       262,6          8,2        381,8       278,9       281,6         1,0         278,8    25.662,07
+Hauptschulen                               414,9       242,8       262,6          8,2        381,8       278,9       281,6         1,0         278,8    25.662,07
+
+Heinrich-Pattberg Realschule               960,9       606,2       584,9       -3,5           884,2       696,3       627,2     -9,9           592,7    55.670,34
+Realschule am Jungbornpark                 715,5       583,2       449,0      -23,0           658,4       669,9       481,6    -28,1           459,7    45.311,51
+Realschulen                              1.676,4     1.189,4     1.033,9      -13,1         1.542,6     1.366,2     1.108,8    -18,8         1.052,4   100.981,85
+
+Grafschafter Gymnasium                     401,3       308,7       335,4        8,6           369,3       354,6       359,7      1,4           346,2    28.579,10
+Gymnasium Adolfinum                      1.187,6       738,5       686,7       -7,0         1.092,8       848,3       736,4    -13,2           712,7    68.137,73
+Gymnasium Filder Benden                  1.074,0       765,1       900,0       17,6           988,2       878,9       965,2      9,8           922,0    72.764,94
+Gymnasium Rheinkamp                        425,1       377,5       392,0        3,8           391,1       433,6       420,4     -3,0           404,0    34.926,56
+Gymnasien                                3.088,0     2.189,8     2.314,1        5,7         2.841,4     2.515,4     2.481,7     -1,3         2.384,9   204.408,33
+
+Albert-Schweitzer-Schule                   302,5       205,2       265,1       29,2          278,4       235,7       284,2      20,6           187,0    16.185,39
+Sonderschulen                              302,5       205,2       265,1       29,2          278,4       235,7       284,2      20,6           187,0    16.185,39
+
+Anne-Frank-Gesamtschule                    733,8       668,1       848,2       27,0           675,3       767,4       909,6     18,5           926,3    76.967,20
+Geschwister-Scholl-Schule                1.035,9       728,5       899,5       23,5           953,2       836,8       964,6     15,3           866,0    75.423,49
+Hermann-Runge-Gesamtschule                 844,3       531,8       711,9       33,9           776,9       610,9       763,4     25,0           617,6    50.191,96
+Gesamtschulen                            2.614,0     1.928,4     2.459,6       27,5         2.405,4     2.215,1     2.637,6     19,1         2.409,9   202.582,65
+
+Moerser Schloß                             400,6       259,4       287,0       10,6          368,7       298,0       307,7       3,3           266,1    21.770,38
+Musikschule                                377,1       283,1       256,7       -9,3          347,0       325,2       275,2     -15,4           334,0    27.995,38
+STM-Schlosstheater                          69,9        40,0        56,6       41,5           64,3        45,9        60,7      32,2            57,3     5.735,79
+Kulturelle Einrichtungen                   847,6       582,5       600,3        3,1          780,0       669,1       643,6      -3,8           657,3    55.501,55
+
+Am Kamin                                     0,0         0,0         0,0        0,0            0,0         0,0         0,0       0,0            81,8     8.105,40
+Sozialunterkunft Achterathsfeldschule      523,6       375,6       557,9       48,5          481,8       431,5       598,3      38,7           698,1    82.464,37
+Sozialunterkunft Ernst-Holla-Str.          241,9       168,7       358,3      112,4          222,6       193,7       384,3      98,4           374,2    25.639,35
+Sozialunterkunft Rathausallee                0,0         0,0        43,0        0,0            0,0         0,0        46,1       0,0            28,7     3.488,75
+Sozialunterkunft Tannenbergstr.             74,2         0,0        91,4        0,0           68,3         0,0        98,0       0,0            75,5     7.992,68
+Sozialunterkünfte Asberger Str. 116         75,6        80,4       110,6       37,6           69,6        92,4       118,6      28,4           110,3     6.119,23
+Sozialunterkünfte Essenberger Str. 104     135,6       121,3       128,5        5,9          124,8       139,4       137,8      -1,1           135,1     7.477,53
+
+
+AKROPOLIS - Energiebewirtschaftung                                                                                            Stadt Moers - ZGM
+Objektliste Heizenergieverbrauch für das Jahr 2015                                                                                                 Seite 3 von 4
+
+                                          Heizenergie absolut                                Heizenergie                                     Heizenergie
+                                          in MWh                                             witterungsbereinigt in MWh                      Verbrauch/Kosten
+                                          Verbrauch Kalenderjahr nach                        Verbrauch Kalenderjahr nach                     abgerechnet mit EVU
+                                          Hausmeisterablesung                                Hausmeisterablesung                             2015
+
+
+
+
+                                                                                              Durch-
+                                            Durch-
+
+
+
+
+                                                                                              schnitt
+                                            schnitt
+
+
+
+
+                                                                               Abweichung
+
+
+
+
+                                                                                                                               Abweichung
+                                                                               zum Vorjahr
+
+
+
+
+                                                                                                                               zum Vorjahr
+Bezeichnung                                                                                                                                              Betrag
+                                            2013                                              2013
+Objekt                                        -          2014           2015                    -          2014        2015                     MWh      in Euro
+                                            2013                                              2013
+
+Sozialunterkünfte Essenberger Str. 106      132,9       109,7       125,5       14,4           122,3       126,0       134,5      6,7           126,6     7.014,31
+Sozialunterkünfte Franz Haniel Str.         387,8       407,4       369,6       -9,3           356,9       467,9       396,4    -15,3           362,7    19.928,28
+Sozialunterkünfte Rheinhausener Str. 58      94,1        96,4       111,6       15,8            86,6       110,7       119,7      8,1           110,8     6.146,62
+Soziale Einrichtungen                     1.665,7     1.359,5     1.896,4       39,5         1.532,9     1.561,6     2.033,7     30,2         2.103,9   174.376,52
+
+Jugendtreff Dorfschule Repelen              127,3        80,2       102,1       27,3          117,1        92,1       109,4      18,8            95,3     5.300,18
+Spielstube Asberger                           3,5         7,5         8,0        6,7            3,2         8,7         8,5      -2,3             7,8       509,67
+Spielstube Donaustr.                         21,7        16,4         9,3      -43,3           19,9        18,8         9,9     -47,3            10,0       500,00
+Spielstube Römerstraße                        8,1         6,2         6,9       11,3            7,4         7,1         7,4       4,2             0,0         0,00
+Jugendeinrichtungen                         160,6       110,3       126,3       14,5          147,6       126,7       135,2       6,7           113,1     6.309,85
+
+Kindergarten, Am Pandyck                     86,1        65,0        67,5        3,8            79,2        74,6        72,4    -2,9             68,0     3.806,12
+Kindergarten, Barbarastr.                   111,0        93,3        95,3        2,1           102,1       107,2       102,2    -4,7             97,4     8.478,55
+Kindergarten, Diergardtstr.                  67,9        53,0        53,1        0,2            62,5        60,8        57,0    -6,3             54,3     3.053,93
+Kindergarten, Eichenstr.                     65,8        52,8        62,3       18,0            60,6        60,6        66,8    10,2             62,3     5.822,13
+Kindergarten, Holderberger Str.             137,5       105,0       112,6        7,2           126,5       120,6       120,7     0,1            112,9     6.263,14
+Kindergarten, Konrad-Adenauer-Straße        135,6        97,5        96,6       -0,9           124,8       112,0       103,5    -7,6             96,6     8.877,10
+Kindergarten Kurze Straße                    64,0        52,3        58,0       10,9            58,9        60,1        62,2     3,5             59,4     5.003,47
+Kindergarten Orchideenstraße                 54,4        18,3        62,7      242,6            50,1        21,0        67,2   220,0             54,1     6.224,31
+Kindergarten Pusenhof                        53,7        44,5        48,5        9,0            49,4        51,1        52,0     1,8             48,6     2.742,81
+Kindergarten Rüttgersweg                     67,9        59,2        72,5       22,5            62,5        68,0        77,7    14,3             73,8     4.120,07
+Kindergarten Ulrich-von-Hutten              106,8        55,3        58,8        6,3            98,3        63,5        63,1    -0,6             59,1     3.315,97
+Kindergarten Walter-Karentz.-Str.            51,9        36,4        31,3      -14,0            47,7        41,8        33,6   -19,6             37,1     2.114,14
+Kindergarten Wilhelm-Müller-Straße           63,5        48,9        65,0       32,9            58,4        56,2        69,7    24,0             63,9     5.584,74
+Kindergarten/Turnhalle Vennikel             237,8       173,9       146,6      -15,7           218,8       199,8       157,3   -21,3            158,4     9.051,00
+Kindertageseinrichtungen                  1.303,9       955,4     1.030,8        7,9         1.199,8     1.097,3     1.105,4     0,7          1.045,8    74.457,48
+
+Henri-Guidet-Zentrum                        584,1       424,6       371,4      -12,5          537,5       487,7       398,2     -18,4           388,0    21.307,07
+Sporthalle Kirschenallee                    323,2       311,5       384,2       23,3          297,4       357,8       412,0      15,1           394,8    33.006,97
+Streichelzoo, Tennisplätze                   21,3        25,2        23,7       -6,0           19,6        29,0        25,4     -12,4            23,7     3.000,00
+Turnhalle Asberg                            160,3       244,2       139,7      -42,8          147,5       280,5       149,8     -46,6           150,0    10.000,00
+Turnhalle Römerstraße                        95,7        63,3        87,9       38,9           88,1        72,7        94,3      29,7           104,0     5.776,94
+
+
+AKROPOLIS - Energiebewirtschaftung                                                                                             Stadt Moers - ZGM
+Objektliste Heizenergieverbrauch für das Jahr 2015                                                                                             Seite 4 von 4
+
+                                      Heizenergie absolut                                Heizenergie                                     Heizenergie
+                                      in MWh                                             witterungsbereinigt in MWh                      Verbrauch/Kosten
+                                      Verbrauch Kalenderjahr nach                        Verbrauch Kalenderjahr nach                     abgerechnet mit EVU
+                                      Hausmeisterablesung                                Hausmeisterablesung                             2015
+
+
+
+
+                                                                                           Durch-
+                                        Durch-
+
+
+
+
+                                                                                           schnitt
+                                        schnitt
+
+
+
+
+                                                                           Abweichung
+
+
+
+
+                                                                                                                           Abweichung
+                                                                           zum Vorjahr
+
+
+
+
+                                                                                                                           zum Vorjahr
+Bezeichnung                                                                                                                                          Betrag
+                                        2013                                               2013
+Objekt                                    -          2014           2015                     -          2014       2015                     MWh      in Euro
+                                        2013                                               2013
+Sportstätten                           1.184,6     1.068,8    1.006,9         -5,8        1.090,1     1.227,7    1.079,7    -12,1         1.060,5    73.090,98
+
+Bergamt Utfort                            0,0         0,0         0,0        0,0             0,0         0,0        0,0       0,0             0,0     4.877,85
+Liegenschaft Asberger Str. 195          389,4       307,7       320,8        4,3           358,3       353,4      344,0      -2,7           325,5    17.887,91
+Liegenschaft Barbarastr. 3              136,8       118,6       139,2       17,4           125,9       136,2      149,2       9,5           139,0    10.693,63
+Liegenschaft Ehrenmalstr. 2              77,9        77,2        73,6       -4,7            71,7        88,7       78,9     -11,0            80,0     4.283,76
+Liegenschaft Markstr. 39                211,6       150,0       163,5        9,0           194,7       172,3      175,4       1,8           162,7     8.984,92
+sonstige Gebäude                        815,7       653,5       697,1        6,7           750,6       750,6      747,5      -0,4           707,2    46.728,07
+
+
+Summen                                22.674,5    16.509,2   17.854,7          8,2       20.864,9    18.963,5   19.146,5        1,0      18.646,7 1.455.924,93
+
+
+
+
+AKROPOLIS - Energiebewirtschaftung                                                                                         Stadt Moers - ZGM
+
